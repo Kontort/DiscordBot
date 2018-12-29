@@ -1,0 +1,8 @@
+# ignore the vscode workspace file. This can be locally created
+*.code-workspace
+
+# ignore local details of bot
+info.json
+
+# ignore the hidden attributes supplied by KDE Dolphin
+.hidden
